@@ -1,0 +1,8 @@
+{
+  "name": "Bich La Cooperative ERP System",
+  "description": "Hệ thống ERP Kế toán & Quản trị Hợp tác xã Nông nghiệp Bích La theo Thông tư 71, quản lý tài chính, xã viên, vật tư, tín dụng nội bộ và vụ mùa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
